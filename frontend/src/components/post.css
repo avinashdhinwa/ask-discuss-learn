@@ -1,0 +1,20 @@
+.reply-class {
+    padding-left: 1em;
+    box-shadow: 4px 1px 21px 5px #212111;
+}
+
+.content {
+    margin-top: 1em;
+    padding-left: 1em;
+    box-shadow: 1px 1px 5px 3px #8c8ce5;
+}
+
+.meta-data-content > span {
+    margin: auto;
+}
+
+.time {
+}
+
+.author {
+}
