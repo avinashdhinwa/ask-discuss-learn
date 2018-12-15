@@ -14,7 +14,7 @@ class Discussion extends Component {
 
         return (
             <Post
-                key={id}
+                key={'post-' + id}
                 id={id}
                 authorName={authorName}
                 timeStamp={timeStamp}
